@@ -9,9 +9,13 @@ from datetime import datetime
 # If the player rolls a 6 when playing with one die, or doubles when playing with two, they get another turn
 # To place their token on the starting square of the board (square 1), they must first roll a 6 when playing with one dice or doubles when playing with two
 # On the first turn, all players may agree to take three rolls to attempt to get a 6 (or doubles) instead of one
+# ----------------------------
 #
 # (Functionalities not important to the statistics of the game are not written in the code)
 # (This code was written to simulate one player for statistical analysis)
+#
+# Here is the link to the YouTube video where I first saw this idea:
+# https://www.youtube.com/watch?v=k2ixp5VozIs
 
 
 # Function for one turn
